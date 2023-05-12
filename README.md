@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [30 Days of Javascript](https://github.com/manrajsandhu23/30-Days-Of-Javascript)
+- 🔭 I’m currently working on Web Dev Projects
 - 🌱 I’m currently learning **Javascript and React**
 - 📫 Reach me at **manrajsandhu023@gmail.com**
 
